@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "homo_steer.h": "c",
+        "homo_init.h": "c",
+        "headfile.h": "c",
+        "seekfree_l3g4200d.h": "c",
+        "comm.h": "c",
+        "serial.h": "c",
+        "vofa.h": "c",
+        "stdbool.h": "c",
+        "menu.h": "c",
+        "speed.h": "c",
+        "isr_config.h": "c",
+        "rtthread.h": "c",
+        "steer.h": "c",
+        "isr.h": "c",
+        "cstdio": "c",
+        "assert.h": "c",
+        "type_traits": "c",
+        "xtr1common": "c",
+        "motor.h": "c",
+        "string.h": "c",
+        "zf_assert.h": "c"
+    }
+}
